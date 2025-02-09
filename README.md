@@ -19,8 +19,8 @@ Welcome to **HoriCord – The Discord Monetization Bot** – the ultimate way to
 2. **Set Up Your Account** – Register on our website and link your server.
 3. **Start Earning** – Ads will be placed, and you’ll begin earning crypto!
 
-## 🔧 Installation
-Currently in progress.
+## 🔧 Invite Link
+Invite link can't be provided bot is still in development stage.
 
 ## 📧 Support & Business Inquiries
 For support or business inquiries, contact: harshtiwari6060@gmail.com
