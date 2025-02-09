@@ -1,6 +1,6 @@
 # Proprietary License
 
-## Copyright (C) [YEAR] [YOUR NAME OR COMPANY]
+## Copyright (C) [2025] [Horizon Digitals]
 
 All rights reserved.
 
