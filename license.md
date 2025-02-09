@@ -24,5 +24,5 @@ Under no circumstances shall the copyright holder be liable for any direct, indi
 ### 6. Termination
 Any violation of these terms will result in the automatic termination of this license. Upon termination, you must cease all use of the software and destroy all copies.
 
-For any licensing inquiries, contact [YOUR CONTACT INFORMATION].
+For any licensing inquiries, contact: harshtiwari6060@gmail.com.
 
