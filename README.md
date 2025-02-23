@@ -20,7 +20,7 @@ Welcome to **HoriCord – The Discord Monetization Bot** – the ultimate way to
 3. **Start Earning** – Ads will be placed, and you’ll begin earning crypto!
 
 ## 🔧 Invite Link
-Invite link can't be provided bot is still in development stage.
+[https://devharsh001.github.io/Horizon-Ads](https://devharsh001.github.io/Horizon-Ads/)
 
 ## 📧 Support & Business Inquiries
 For support or business inquiries, contact: harshtiwari6060@gmail.com
